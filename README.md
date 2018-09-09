@@ -1,1 +1,1 @@
-# sequence-prediction-using-CNN-and-LSTMs
+# Sequence-prediction-using-CNN-and-LSTMs
