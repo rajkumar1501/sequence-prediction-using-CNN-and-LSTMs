@@ -21,9 +21,9 @@
 ##### Vinna RNA package
 
 """
-> sudo apt-add-repository ppa:j-4/vienna-rna
-> sudo apt-get update
-> sudo apt-get install vienna-rna
+###### sudo apt-add-repository ppa:j-4/vienna-rna
+###### sudo apt-get update
+###### sudo apt-get install vienna-rna
 
 """
 
