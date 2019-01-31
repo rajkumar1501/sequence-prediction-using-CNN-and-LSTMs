@@ -6,13 +6,13 @@
 ### Requirements
 #### Python==3.6 or above
 #### Python3 Libraries
-requests==2.18.4
-Keras==2.2.0
-numpy==1.15.0
-matplotlib==2.2.3
-Biopython
+requests==2.18.4\n
+Keras==2.2.0\n
+numpy==1.15.0\n
+matplotlib==2.2.3\n
+Biopython\n
 
-#### Ubuntu Pacages
+#### Ubuntu Packages
 
 ##### NCBI Blastx
 
@@ -32,7 +32,7 @@ sudo apt-get install vienna-rna
 Download link https://www.tbi.univie.ac.at/RNA/download/ubuntu/ubuntu_18_10/python3-rna_2.4.11-1_amd64.deb
 
 
-### After sucessfully installing above dependencies.
-### Goto Package folder and Run:
+#### After sucessfully installing above dependencies.
+#### Goto package directry and Run:
 "Run_model.py" file
 
