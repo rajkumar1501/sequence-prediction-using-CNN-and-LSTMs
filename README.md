@@ -6,11 +6,11 @@
 ### Requirements
 #### Python==3.6 or above
 #### Python3 Libraries
-requests==2.18.4\n
-Keras==2.2.0\n
-numpy==1.15.0\n
-matplotlib==2.2.3\n
-Biopython\n
+###### requests==2.18.4
+###### Keras==2.2.0
+###### numpy==1.15.0
+###### matplotlib==2.2.3
+###### Biopython
 
 #### Ubuntu Packages
 
