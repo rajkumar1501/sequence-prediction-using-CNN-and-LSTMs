@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# model setup of training of model.
 from __future__ import print_function
 import keras
 from keras.models import Model

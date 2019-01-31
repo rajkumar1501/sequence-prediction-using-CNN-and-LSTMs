@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 
+#from Bio import SeqIO
 import sqlite3
 conn = sqlite3.connect('hsa_mir.db')
 
-
+#fasta_sequences = SeqIO.parse('Homo_cdna_all.fasta','fasta')
+#with open('Homo_cdna_all.csv','w+') as out_file:
     
 
 c = conn.cursor()

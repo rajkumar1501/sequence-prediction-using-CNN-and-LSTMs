@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# predictive model used for predticion of miRNAs.
+# -*- coding: utf-8 -*-
 from __future__ import print_function
 #import keras
 from keras.models import Model
