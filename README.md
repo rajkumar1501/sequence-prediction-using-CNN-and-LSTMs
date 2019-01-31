@@ -29,7 +29,7 @@
 
 ##### Python3 bindings for Vinna RNA package
 
-Download link https://www.tbi.univie.ac.at/RNA/download/ubuntu/ubuntu_18_10/python3-rna_2.4.11-1_amd64.deb
+Download link "https://www.tbi.univie.ac.at/RNA/download/ubuntu/ubuntu_18_10/python3-rna_2.4.11-1_amd64.deb"
 
 
 #### After sucessfully installing above dependencies.
