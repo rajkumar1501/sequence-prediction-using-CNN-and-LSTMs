@@ -34,5 +34,5 @@ Download link https://www.tbi.univie.ac.at/RNA/download/ubuntu/ubuntu_18_10/pyth
 
 #### After sucessfully installing above dependencies.
 #### Goto package directry and Run:
-"Run_model.py" file
+"run_model.py" file
 
