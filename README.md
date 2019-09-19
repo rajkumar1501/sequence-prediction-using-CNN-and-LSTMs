@@ -2,7 +2,7 @@
 
 ### A proposed model base on CNNs and Encoder-Decoder LSTMs stacked in Seq2Seq architecture for prediction of miRNA sequences based on mRNA sequence.
 
-### Find reproduceable code at (https://codeocean.com/capsule/3413407/tree) 
+### Find reproducible code and cloud run at (https://codeocean.com/capsule/3413407/tree) 
 
 
 ### Requirements
